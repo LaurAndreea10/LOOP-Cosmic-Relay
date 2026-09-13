@@ -2,7 +2,7 @@
   "name": "LOOP — Cosmic Relay Premium",
   "short_name": "LOOP",
   "description": "Joc cosmic accesibil controlat cu o singură acțiune.",
-  "start_url": "./LOOP-Cosmic-Relay.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#1e1b4b",
